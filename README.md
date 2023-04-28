@@ -63,19 +63,19 @@ Using the TP, TN, FP & FN, the sensitivity of TP% was plotted against the specif
 
 ### 1. Ganga Hospital Data with TP% vs TN% graph
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Hospital%20Data%20Project/Ganga%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Hospital_Data_Project/main/Ganga%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
 
 ### 2. LSI Hospital Data with TP% vs TN% graph
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Hospital%20Data%20Project/LSI%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Hospital_Data_Project/main/LSI%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
 
 ### 3. Mess Hospital Data with TP% vs TN% graph
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Hospital%20Data%20Project/Mess%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Hospital_Data_Project/main/Mess%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
 
 ### 4. OTA Hospital Data with TP% vs TN% graph
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Portfolio/main/Hospital%20Data%20Project/OTA%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Hospital_Data_Project/main/OTA%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
 
 ## Insights
 
