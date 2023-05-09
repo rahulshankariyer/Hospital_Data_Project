@@ -77,7 +77,7 @@ The Sensitivity % was plotted against the Specificity % for the descending order
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Hospital_Data_Project/main/OTA%20Hospital%20Data%20with%20TP%25%20vs%20TN%25%20graph.png)
 
-## Insights
+## Insights (from the graphs)
 
 1. Ganga hospital was better than the other hospitals in the evaluation at Salvaging or Amputating Limbs. 
 2. LSI is second best at evaluation, going by the graphs, behind Mess and OTA only in the 0.70 Cut Off. 
