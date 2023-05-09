@@ -6,8 +6,8 @@ To compare the diagnosis by 4 different Hospitals of the Limbs of Accident Victi
 
 ## Data Source
 
-I was provided an excel sheet by the doctors of 4 leading hospitals - Mess, Ganga, LSI, OTA. I have combined the data from all 4 hospitals in the below Excel sheet:
-<a href = "https://docs.google.com/spreadsheets/d/1YYBLJnrLSgD7jOrTILs2tOJVsBsBlw-4/edit#gid=1215070420"> Original Hospital Data from Ganga, LSI, Mess and OTA Hospitals </a>
+I was provided an excel sheet by the doctors of 4 leading hospitals - Mess, Ganga, LSI, OTA. I have combined the data from all 4 hospitals into an
+<a href = "https://docs.google.com/spreadsheets/d/1YYBLJnrLSgD7jOrTILs2tOJVsBsBlw-4/edit#gid=1215070420"> Excel Sheet </a>
 
 The excel sheet in the following link contains 225 observations of accident victims from each of the 4 mentioned hospitals with the following data:
 
