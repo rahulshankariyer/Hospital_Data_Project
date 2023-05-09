@@ -10,7 +10,7 @@ The goal was to rank 4 hospitals based on the accuracy of their initial evaluati
 
 The data of 225 accident victims were collected from the 4 hospitals - Mess, Ganga, LSI, OTA - and combined into an <a href = "https://docs.google.com/spreadsheets/d/1YYBLJnrLSgD7jOrTILs2tOJVsBsBlw-4/edit#gid=1215070420"> Excel Sheet </a>
 
-The excel sheet in the following link contains 225 observations of accident victims from each of the 4 mentioned hospitals with the following data:
+The data had the following information of victims:
 
 1. Age
 2. Gender
