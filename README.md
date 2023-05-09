@@ -59,7 +59,7 @@ Using the above cut off values, the count of True Positives (TP), True Negatives
 3. False Positives (FP) - The patient's limbs were Incorrectly evaluated as Salvaged.
 4. False Negatives (FN) - The patient's limbs were Incorrectly evaluated as Amputated.
 
-Using the TP, TN, FP & FN, the sensitivity of TP% was plotted against the specificity of TN% for the descending order of probability of salvage. This is shown in the excel sheets in the graphs below, which contain the data for each of the hospital, their cut off based calculations of TP, TN, FP & FN, as well as the graphs of TP% against TN%
+Using the TP, TN, FP & FN, the sensitivity was plotted against the specificity for the descending order of probability of salvage. This is shown in the excel sheets in the graphs below, which contain the data for each of the hospitals, their cut-off-based calculations of TP, TN, FP & FN, as well as the graphs of TP% against TN%
 
 ### 1. Ganga Hospital Data with TP% vs TN% graph
 
