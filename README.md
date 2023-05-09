@@ -12,8 +12,8 @@ The data of 225 accident victims were collected from the 4 hospitals - Mess, Gan
 
 The data had the following information of victims:
 
-1. Age
-2. Gender
+1. Age & Gender
+2. Muscle, Skin, and Bone scores
 3. Probability of Salvaging the Limbs
 4. Probability of Primary Amputation Being Required
 5. Probability of Secondary Amputation Being Required
@@ -56,11 +56,18 @@ The following transformations were made on the data:
 Using the above cut-off values, the count of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN) cases were calculated for each hospital, where - 
 
 True Positives (TP) - The patient's limbs were Correctly evaluated as Salvaged.
+
 True Negatives (TN) - The patient's limbs were Correctly evaluated as Amputated.
+
 False Positives (FP) - The patient's limbs were Incorrectly evaluated as Salvaged.
+
 False Negatives (FN) - The patient's limbs were Incorrectly evaluated as Amputated.
 
-The Sensitivity % was plotted against the Specificity % for the descending order of probability of salvage. This is shown in the graphs below, which contain the data for each of the hospitals.
+The sensitivity % of TP% was plotted against the specificity % of TN% for the descending order of Salvage probability. This is shown in the graphs below (created in Excel) , for each hospital.
+
+Sensitivity: the ability of a test to correctly identify patients with a disease.
+
+Specificity: the ability of a test to correctly identify people without the disease. 
 
 ### 1. Ganga Hospital Data with TP% vs TN% graph
 
