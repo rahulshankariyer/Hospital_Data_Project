@@ -31,8 +31,8 @@ The excel sheet in the following link contains 225 observations of accident vict
 
 ## Tools Used
 
-1. Excel
-2. Minitab
+1. Regression Analysis using Excel
+2. Minitab to create visual charts
 
 ## Data Transformation
 
