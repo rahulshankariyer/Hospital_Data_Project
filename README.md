@@ -52,7 +52,7 @@ To make things simpler, the following transformations were made on the data:
 
 ## Analysis
 
-It also contains the count of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN) cases for each hospital. 
+Using the above cut off values, the count of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN) cases were calculated for each hospital. The definitions for these values are as given below.
 
 1. True Positives (TP) - The patient's limbs were Correctly evaluated as Salvaged.
 2. True Negatives (TN) - The patient's limbs were Correctly evaluated as Amputated.
