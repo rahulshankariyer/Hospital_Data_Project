@@ -18,13 +18,6 @@ The excel sheet in the following link contains 225 observations of accident vict
 5. Probability of Secondary Amputation Being Required
 6. Final Diagnosis
 
-It also contains the count of True Positives (TP), True Negatives (TN), False Positives (FP) and False Negatives (FN) cases for each hospital. 
-
-1. True Positives (TP) - The patient's limbs were Correctly evaluated as Salvaged.
-2. True Negatives (TN) - The patient's limbs were Correctly evaluated as Amputated.
-3. False Positives (FP) - The patient's limbs were Incorrectly evaluated as Salvaged.
-4. False Negatives (FN) - The patient's limbs were Incorrectly evaluated as Amputated.
-
 ## Data Used
 
 1. Probability of Salvaging the Limbs
@@ -42,7 +35,7 @@ It also contains the count of True Positives (TP), True Negatives (TN), False Po
 To make things simpler, the following transformations were made on the data:
 
 1. Amputation Probability was considered as the Sum of Probability of Primary Amputation and Secondary Amputation. 
-2. The Salvaging and Amputation Prediction of the Final Diagnosis given in terms of probabilities were converted to binary nature by predicting the limbs to be Salvaged for any Salvage Probability above a certain Cut Off Value. 
+2. In order to do a binary prediction as to whether the limbs will be salvaged or not, 6 different cut off values were considered for Salvage Probability. For any Salvage Probability above the cut off, the limbs were predicted to be salvaged and for any Salvage Probability below the cut off, they were predicted to be amputated.
 3. The 6 cut off values chosen were - 
 
         (i) 0.92
@@ -58,6 +51,13 @@ To make things simpler, the following transformations were made on the data:
         (vi) 0.65
 
 ## Analysis
+
+It also contains the count of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN) cases for each hospital. 
+
+1. True Positives (TP) - The patient's limbs were Correctly evaluated as Salvaged.
+2. True Negatives (TN) - The patient's limbs were Correctly evaluated as Amputated.
+3. False Positives (FP) - The patient's limbs were Incorrectly evaluated as Salvaged.
+4. False Negatives (FN) - The patient's limbs were Incorrectly evaluated as Amputated.
 
 Using the TP, TN, FP & FN, the sensitivity of TP% was plotted against the specificity of TN% for the descending order of probability of salvage. This is shown in the excel sheets in the below links, which contain the data for each of the hospital, their cut off based calculations of TP, TN, FP & FN, as well as the graphs of TP% against TN%
 
