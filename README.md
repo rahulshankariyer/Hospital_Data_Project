@@ -1,4 +1,8 @@
-# Analysis of Accident Victims Evaluation by Four Different Hospitals
+# Hospital Data Analysis of Polytrauma Patients
+
+## Indian Statistical Institute. June 2018
+
+## Regression Analysis, Excel, Minitab (under the pic)
 
 ## Project Objective
 
