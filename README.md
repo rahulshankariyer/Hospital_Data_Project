@@ -87,13 +87,13 @@ Specificity: the ability of a test to correctly identify people without the dise
 
 ## Insights (from the graphs)
 
-1. Ganga hospital was better than the other hospitals in the evaluation at Salvaging or Amputating Limbs. 
-2. LSI is second best at evaluation, going by the graphs, behind Mess and OTA only in the 0.70 Cut Off. 
-3. Mess is better OTA in 4 out of the 6 Cut Offs under consideration, behind only in the 0.92 and 0.70 Cut Offs.
+1. Ganga hospital was better than the other hospitals in the evaluation of Salvaging or Amputating Limbs. 
+2. LSI is second best at evaluation, behind Mess and OTA only in the 0.70 cut-off. 
+3. Mess is better OTA in 4 out of the 6 cut-offs under consideration, behind only in the 0.92 and 0.70 cut-offs.
 
 ## Conclusion
 
-Final Rankings of the 4 Hospitals at evaluation:
+Final Rankings of the 4 Hospitals (based on accuracy of evaluation to final diagnosis):
 
 1. Ganga Hospital
 2. LSI Hospital
