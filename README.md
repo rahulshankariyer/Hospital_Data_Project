@@ -2,11 +2,9 @@
 
 ## Indian Statistical Institute. June 2018
 
-## Regression Analysis, Excel, Minitab (under the pic)
-
 ## Project Objective
 
-To compare the diagnosis by 4 different Hospitals of the Limbs of Accident Victims as to whether they can be Salvaged or have to be Amputated.
+The goal was to rank 4 hospitals based on the accuracy of their initial evaluation to final diagnosis, in the salvaging or amputating limbs of accident victims. The ranking was based on an analysis of 225 accident victims’ data (muscle, skin, bone) over one year, from the 4 hospitals. Using Excel to perform Regression Analysis, hospitals and created visual charts using Minitab to present the results. 
 
 ## Data Source
 
